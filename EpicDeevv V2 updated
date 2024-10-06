@@ -75,7 +75,7 @@ local body = {
                       "\nDevice Type = " .. deviceType ..
                       "\nExecutor = " .. executor,
         color = 0,
-        author = { name = "put your script name here" }
+        author = { name = "EpicDeevv V2" }
     }}
 }
 
