@@ -91,7 +91,7 @@ req({
 local DrRayLibrary =
     loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/DrRay-UI-Library/main/DrRay.lua"))()
 
-local window = DrRayLibrary:Load("Z3TR V1", "Default")
+local window = DrRayLibrary:Load("EpicDeevv V2", "Default")
 
 --Main tab (no ads / portals, walkspeed, jump power, size, invinsible, auto join brawl)
 local mainTab = DrRayLibrary.newTab("Main", "ImageIdHere")
